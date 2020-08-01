@@ -1,3 +1,0 @@
-[build]
-  command = "npm && npm testbuild"
-  publish = "public"
